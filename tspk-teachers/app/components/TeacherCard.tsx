@@ -17,7 +17,7 @@ export default function TeacherCard({ teacher }: TeacherCardProps) {
 
   return (
     <div 
-      className="relative w-[24.125rem] h-[36.3125rem] cursor-pointer perspective-1000 rounded-2xl duration-200 ease-in-out hover:scale-105"
+      className="relative w-[24.125rem] h-[36.3125rem] cursor-pointer perspective-1000 rounded-2xl duration-200 ease-in-out md:hover:scale-105"
       style={{
         filter: 'drop-shadow(0 0 1.25rem rgba(0, 0, 0, 0.3))'
       }}
