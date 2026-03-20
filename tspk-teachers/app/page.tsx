@@ -57,7 +57,7 @@ export default function Home() {
 
 
     {/* 3 Третий блок 3 */}
-    <section id="teachers" className="w-fit h-fit md:py-9.25 py-10.5 md:px-12 px-6 rounded-[5rem] border-1 border-black flex flex-col md:justify-between.25 gap-20 items-center">
+    <section id="teachers" className="w-fit h-fit md:w-full md:py-9.25 py-10.5 md:px-12 px-6 rounded-[5rem] border-1 border-black flex flex-col md:justify-between.25 gap-20 items-center">
       <div className='flex md:justify-between md:items-center flex-col md:flex-row gap-6.5'>
         <h1 className="font-semibold md:text-5xl text-[2rem]">Преподаватели IT-<br />отделения</h1>
         <p className="w-fit font-semibold md:text-2xl text-[1rem] text-[#8A8585]">Отделение педагогов, специализирующихся<br /> на сфере IT (Программирование, дизайн и<br /> прочее)</p>
