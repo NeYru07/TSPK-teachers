@@ -9,7 +9,7 @@ export interface Teacher {
 export const teachers: Teacher[] = [
   {
     id: 1,
-    name: "Раполова Е.О.",
+    name: "Ряполова Е.О.",
     description: "заведующая отделения, ведёт дисциплину инострынный язык",
     photo: "/images/teachers/ryapolova.png",
     quote: "«Лучше я приду через 15 минут, чем вы уйдете через 5»"
